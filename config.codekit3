@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "28901",
 "files": {
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/docs/.gitignore",
+		"oF": 0
+		},
 	"/docs": {
 		"ft": 65536,
 		"oA": 1,
@@ -330,7 +337,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-daenerys",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 560522995.361413
+	"lastBuiltDate": 560523970.45150495
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
