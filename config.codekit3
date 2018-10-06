@@ -158,6 +158,17 @@
 		"oAP": "/docs/generic.html",
 		"oF": 0
 		},
+	"/source/images/glasklart.png": {
+		"ft": 32768,
+		"iS": 21036,
+		"oA": 0,
+		"oAP": "/docs/images/glasklart.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/source/images/pic01.jpg": {
 		"ft": 16384,
 		"iS": 31511,
@@ -337,7 +348,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-daenerys",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 560525238.69474006
+	"lastBuiltDate": 560535978.90979505
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
