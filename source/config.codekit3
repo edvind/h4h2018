@@ -9,13 +9,7 @@
 	],
 "creatorBuild": "28901",
 "files": {
-	"/docs": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/docs/docs",
-		"oF": 0
-		},
-	"/source/assets/css/font-awesome.min.css": {
+	"/assets/css/font-awesome.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
@@ -25,7 +19,7 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/source/assets/css/main.css": {
+	"/assets/css/main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
@@ -35,14 +29,14 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/source/assets/fonts/fontawesome-webfont.eot": {
+	"/assets/fonts/fontawesome-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/docs/assets/fonts/fontawesome-webfont.eot",
 		"oF": 0
 		},
-	"/source/assets/fonts/fontawesome-webfont.svg": {
+	"/assets/fonts/fontawesome-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
@@ -52,35 +46,35 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/source/assets/fonts/fontawesome-webfont.ttf": {
+	"/assets/fonts/fontawesome-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/docs/assets/fonts/fontawesome-webfont.ttf",
 		"oF": 0
 		},
-	"/source/assets/fonts/fontawesome-webfont.woff": {
+	"/assets/fonts/fontawesome-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/docs/assets/fonts/fontawesome-webfont.woff",
 		"oF": 0
 		},
-	"/source/assets/fonts/fontawesome-webfont.woff2": {
+	"/assets/fonts/fontawesome-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/docs/assets/fonts/fontawesome-webfont.woff2",
 		"oF": 0
 		},
-	"/source/assets/fonts/FontAwesome.otf": {
+	"/assets/fonts/FontAwesome.otf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/docs/assets/fonts/FontAwesome.otf",
 		"oF": 0
 		},
-	"/source/assets/js/jquery.min.js": {
+	"/assets/js/jquery.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -90,7 +84,7 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/source/assets/js/jquery.scrolly.min.js": {
+	"/assets/js/jquery.scrolly.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -100,7 +94,7 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/source/assets/js/main.js": {
+	"/assets/js/main.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -110,7 +104,7 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/source/assets/js/skel.min.js": {
+	"/assets/js/skel.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -120,7 +114,7 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/source/assets/js/util.js": {
+	"/assets/js/util.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -130,28 +124,34 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/source/CREDITS.txt": {
+	"/CREDITS.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/docs/CREDITS.txt",
 		"oF": 0
 		},
-	"/source/elements.html": {
+	"/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/docs/docs",
+		"oF": 0
+		},
+	"/elements.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/docs/elements.html",
 		"oF": 0
 		},
-	"/source/generic.html": {
+	"/generic.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/docs/generic.html",
 		"oF": 0
 		},
-	"/source/images/pic01.jpg": {
+	"/images/pic01.jpg": {
 		"ft": 16384,
 		"iS": 31511,
 		"jF": 0,
@@ -162,7 +162,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic02.jpg": {
+	"/images/pic02.jpg": {
 		"ft": 16384,
 		"iS": 43560,
 		"jF": 0,
@@ -173,7 +173,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic03.jpg": {
+	"/images/pic03.jpg": {
 		"ft": 16384,
 		"iS": 12253,
 		"jF": 0,
@@ -184,7 +184,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic04.jpg": {
+	"/images/pic04.jpg": {
 		"ft": 16384,
 		"iS": 7639,
 		"jF": 0,
@@ -195,7 +195,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic05.jpg": {
+	"/images/pic05.jpg": {
 		"ft": 16384,
 		"iS": 17417,
 		"jF": 0,
@@ -206,7 +206,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic06.jpg": {
+	"/images/pic06.jpg": {
 		"ft": 16384,
 		"iS": 11611,
 		"jF": 0,
@@ -217,7 +217,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic07.jpg": {
+	"/images/pic07.jpg": {
 		"ft": 16384,
 		"iS": 13306,
 		"jF": 0,
@@ -228,7 +228,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic08.jpg": {
+	"/images/pic08.jpg": {
 		"ft": 16384,
 		"iS": 12555,
 		"jF": 0,
@@ -239,7 +239,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic09.jpg": {
+	"/images/pic09.jpg": {
 		"ft": 16384,
 		"iS": 17572,
 		"jF": 0,
@@ -250,7 +250,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic10.jpg": {
+	"/images/pic10.jpg": {
 		"ft": 16384,
 		"iS": 9780,
 		"jF": 0,
@@ -261,7 +261,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic11.jpg": {
+	"/images/pic11.jpg": {
 		"ft": 16384,
 		"iS": 196667,
 		"jF": 0,
@@ -272,7 +272,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic12.jpg": {
+	"/images/pic12.jpg": {
 		"ft": 16384,
 		"iS": 530613,
 		"jF": 0,
@@ -283,7 +283,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic13.jpg": {
+	"/images/pic13.jpg": {
 		"ft": 16384,
 		"iS": 259979,
 		"jF": 0,
@@ -294,7 +294,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic14.jpg": {
+	"/images/pic14.jpg": {
 		"ft": 16384,
 		"iS": 191924,
 		"jF": 0,
@@ -305,14 +305,14 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/source/index.html": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/docs/index.html",
 		"oF": 0
 		},
-	"/source/LICENSE.txt": {
+	"/LICENSE.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
@@ -330,7 +330,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-daenerys",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 560522995.361413
+	"lastBuiltDate": 560522905.80832696
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
