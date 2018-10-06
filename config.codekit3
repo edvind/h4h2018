@@ -137,30 +137,42 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/source/CREDITS.txt": {
-		"cB": 0,
-		"ft": 8192,
+	"/source/images/berattelsebot.png": {
+		"ft": 32768,
+		"iS": 7292,
 		"oA": 0,
-		"oAP": "/docs/CREDITS.txt",
-		"oF": 0
+		"oAP": "/docs/images/berattelsebot.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
-	"/source/elements.html": {
-		"cB": 0,
-		"ft": 8192,
+	"/source/images/bot.jpg": {
+		"ft": 16384,
+		"iS": 542152,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/docs/elements.html",
-		"oF": 0
+		"oAP": "/docs/images/bot.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
-	"/source/generic.html": {
-		"cB": 0,
-		"ft": 8192,
+	"/source/images/glas.jpg": {
+		"ft": 16384,
+		"iS": 228198,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/docs/generic.html",
-		"oF": 0
+		"oAP": "/docs/images/glas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"/source/images/glasklart.png": {
 		"ft": 32768,
-		"iS": 21036,
+		"iS": 6173,
 		"oA": 0,
 		"oAP": "/docs/images/glasklart.png",
 		"oF": 0,
@@ -169,158 +181,48 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/source/images/pic01.jpg": {
+	"/source/images/historiepunkt.png": {
+		"ft": 32768,
+		"iS": 5325,
+		"oA": 0,
+		"oAP": "/docs/images/historiepunkt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/images/punkt.jpg": {
 		"ft": 16384,
-		"iS": 31511,
+		"iS": 248449,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/docs/images/pic01.jpg",
+		"oAP": "/docs/images/punkt.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic02.jpg": {
+	"/source/images/sak.jpg": {
 		"ft": 16384,
-		"iS": 43560,
+		"iS": 391423,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/docs/images/pic02.jpg",
+		"oAP": "/docs/images/sak.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"/source/images/pic03.jpg": {
-		"ft": 16384,
-		"iS": 12253,
-		"jF": 0,
+	"/source/images/saknet.png": {
+		"ft": 32768,
+		"iS": 8286,
 		"oA": 0,
-		"oAP": "/docs/images/pic03.jpg",
+		"oAP": "/docs/images/saknet.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic04.jpg": {
-		"ft": 16384,
-		"iS": 7639,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic04.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic05.jpg": {
-		"ft": 16384,
-		"iS": 17417,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic05.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic06.jpg": {
-		"ft": 16384,
-		"iS": 11611,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic06.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic07.jpg": {
-		"ft": 16384,
-		"iS": 13306,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic07.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic08.jpg": {
-		"ft": 16384,
-		"iS": 12555,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic08.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic09.jpg": {
-		"ft": 16384,
-		"iS": 17572,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic09.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic10.jpg": {
-		"ft": 16384,
-		"iS": 9780,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic11.jpg": {
-		"ft": 16384,
-		"iS": 196667,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic11.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic12.jpg": {
-		"ft": 16384,
-		"iS": 530613,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic13.jpg": {
-		"ft": 16384,
-		"iS": 259979,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic13.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/source/images/pic14.jpg": {
-		"ft": 16384,
-		"iS": 191924,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/docs/images/pic14.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"/source/index.html": {
@@ -348,7 +250,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-daenerys",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 560535978.90979505
+	"lastBuiltDate": 560540367.76261795
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
