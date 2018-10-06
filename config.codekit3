@@ -28,8 +28,8 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/docs/assets/css/font-awesome.min-min.css",
-		"oF": 0,
+		"oAP": "/docs/assets/css/font-awesome.min.css",
+		"oF": 2,
 		"oS": 3
 		},
 	"/source/assets/css/main.css": {
@@ -38,8 +38,8 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/docs/assets/css/main-min.css",
-		"oF": 0,
+		"oAP": "/docs/assets/css/main.css",
+		"oF": 2,
 		"oS": 3
 		},
 	"/source/assets/fonts/fontawesome-webfont.eot": {
@@ -92,7 +92,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/docs/assets/js/jquery.min-min.js",
+		"oAP": "/docs/assets/js/jquery.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -102,7 +102,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/docs/assets/js/jquery.scrolly.min-min.js",
+		"oAP": "/docs/assets/js/jquery.scrolly.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -112,7 +112,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/docs/assets/js/main-min.js",
+		"oAP": "/docs/assets/js/main.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -122,7 +122,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/docs/assets/js/skel.min-min.js",
+		"oAP": "/docs/assets/js/skel.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -132,7 +132,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/docs/assets/js/util-min.js",
+		"oAP": "/docs/assets/js/util.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -334,10 +334,10 @@
 "projectAttributes": {
 	"creationDate": 560522673.80095196,
 	"displayValue": "h4h2018",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-daenerys",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 560523970.45150495
+	"lastBuiltDate": 560525238.69474006
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2109,7 +2109,7 @@
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputPathFilenamePattern": "*.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
@@ -2154,7 +2154,7 @@
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*-min.js",
+		"autoOutputPathFilenamePattern": "*.js",
 		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
