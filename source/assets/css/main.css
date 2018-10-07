@@ -4536,6 +4536,18 @@
     height: 100%;
 }
 
+/* Credits */
+
+.credits {
+  width: 100%;
+  text-align: center;
+  padding-top: 35px;
+}
+
+.credits ul {
+  list-style: none;
+}
+
 /* Footer */
 
 	#footer {
